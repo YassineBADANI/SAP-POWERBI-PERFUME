@@ -90,7 +90,7 @@ SAP HANA is used as the primary data storage and processing solution, leveraging
 *![Screenshot of Detailed](power-bi-dashboard/screenshots/detailed.png)*
 
 - **Perfume Filter:** Dropdown list to select a specific perfume.
-- **Perfumer Map:** Visual representation of perfumer locations.
+- **Perfumer Map:** Visual representation of perfumer name.
 - **Brand Map:** Visual representation of brand origins.
 - **Country and Gender Details:** Table displaying detailed country and gender information.
 - **Rating Count Chart:** Vertical bar chart showing the number of ratings for the selected perfume.
